@@ -3,6 +3,7 @@
   This site is currently hosted through Netlify
 
 ## Screenshot
+![img](https://github.com/AnupK1234/Social-Media-Reference-Landing-Page/assets/94510566/a429be57-ec51-46ac-9b12-494dc1d586b7)
 
 [Click here](https://social-landingpage.netlify.app/) to view the live demo. 
 <p align="center">
